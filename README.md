@@ -48,6 +48,12 @@
 | File upload vulnerabilities |     |     | ✔️  |
 | JWT | ✔️  | ✔️  |     |
 
+#### Common Hackverter tags:
+- `<@urlencode><@/urlencode>`
+- `<@urlencode_all><@/urlencode_all>`
+- `<@d_url><@/d_url>`
+
+
 #### Learning:
 [Port Swigger all materials](https://portswigger.net/web-security/all-materials)
 
