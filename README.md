@@ -1,5 +1,10 @@
 # Resources
 
+# To do:
+- Add Burp scan Configs.
+- Add Cyberchef Recipes.
+- Add Payloads.
+
 **Default Creds:** `wiener:peter`
 
 #### Extensions:
@@ -54,9 +59,6 @@
 - `<@urlencode_all><@/urlencode_all>`
 - `<@d_url><@/d_url>`
 
-#### CyberChef Recipes
--
--
 
 #### Learning:
 [Port Swigger all materials](https://portswigger.net/web-security/all-materials)
