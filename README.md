@@ -23,8 +23,7 @@
 - [SQLi Cheatsheet](https://portswigger.net/web-security/sql-injection/cheat-sheet)
 - [SQLi Union Attacks](https://portswigger.net/web-security/sql-injection/union-attacks)
 
-#### Stages and what to look for [Table from  Micah Van Deusen blog
-](https://micahvandeusen.com/burp-suite-certified-practitioner-exam-review/)
+#### Stages and what to look for [Table from  Micah Van Deusen blog](https://micahvandeusen.com/burp-suite-certified-practitioner-exam-review/)
 | Category | Stage 1 | Stage 2 | Stage 3 |
 | --- | --- | --- | --- |
 | SQL Injection |     | ✔️  | ✔️  |
