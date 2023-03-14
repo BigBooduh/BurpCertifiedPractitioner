@@ -20,6 +20,15 @@
 - FoxyProxy (Firefox plugin)
 
 
+#### Portswigger Cheatsheets:
+**XXS**
+[XXS Cheatsheet](https://portswigger.net/web-security/cross-site-scripting/cheat-sheet)
+**SQLi**
+[SQLi Cheatsheet](https://portswigger.net/web-security/sql-injection/cheat-sheet)
+[SQLi Union Attacks](https://portswigger.net/web-security/sql-injection/union-attacks)
+
+#### Learning:
+[Port Swigger all materials](https://portswigger.net/web-security/all-materials)
 
 
 
