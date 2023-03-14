@@ -18,6 +18,7 @@
 - Jython 2.7 [Standalone version](https://repo1.maven.org/maven2/org/python/jython-standalone/2.7.3/jython-standalone-2.7.3.jar)
 - FoxyProxy (Firefox plugin)
 - DOM Invader 
+- CyberChef [GIT Repo: ](https://github.com/gchq/CyberChef) [DEMO: ](https://gchq.github.io/CyberChef/)
 
 #### Portswigger Cheatsheets:
 - [XXS Cheatsheet](https://portswigger.net/web-security/cross-site-scripting/cheat-sheet)
@@ -53,6 +54,9 @@
 - `<@urlencode_all><@/urlencode_all>`
 - `<@d_url><@/d_url>`
 
+#### CyberChef Recipes
+-
+-
 
 #### Learning:
 [Port Swigger all materials](https://portswigger.net/web-security/all-materials)
