@@ -1,7 +1,6 @@
 # Resources
 
-#### Default Creds:
-`wiener:peter`
+**Default Creds:** `wiener:peter`
 
 #### Extensions:
 - Turbo Intruder
